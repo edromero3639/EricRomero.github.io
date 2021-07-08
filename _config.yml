@@ -54,11 +54,13 @@ education:
    subject: Physics
    school: University of California, Riverside
  - level: Masters (M.Ed.)
-   date: 2011
+   start: 2010
+   end: 2011
    subject: Education
    school: University of California, Riverside
  - level: Masters of Science (M.S.)
-   date: 2021
+   start: 2020
+   end: 2021
    subject: Data Science
    school: Southern Methodist University
 
