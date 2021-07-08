@@ -8,8 +8,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+ #- title: Blog
+ #  url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/edromero3639
  - title: LinkedIn
