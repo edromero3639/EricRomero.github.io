@@ -49,7 +49,8 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2010
+   start: 2007
+   end: 2010
    subject: Physics
    school: University of California, Riverside
  - level: Masters (M.Ed.)
